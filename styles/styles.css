@@ -1,0 +1,20 @@
+header {
+  border: 0.5rem solid brown;
+}
+
+header .nav {
+  border: 2px solid yellow;
+}
+
+section {
+  border: 2px solid blue;
+}
+
+section .text-data {
+  border: 2px dashed orange;
+}
+
+footer {
+  border: 2px solid darkgreen;
+}
+/*# sourceMappingURL=styles.css.map */
