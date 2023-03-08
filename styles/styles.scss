@@ -1,15 +1,15 @@
-header {
+.header {
   border: 0.5rem solid brown;
   .nav {
     border: 2px solid yellow;
   }
 }
-section {
+.section {
   border: 2px solid blue;
   .text-data {
     border: 2px dashed orange;
   }
 }
-footer {
+.footer {
   border: 2px solid darkgreen;
 }

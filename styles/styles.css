@@ -1,20 +1,20 @@
-header {
+.header {
   border: 0.5rem solid brown;
 }
 
-header .nav {
+.header .nav {
   border: 2px solid yellow;
 }
 
-section {
+.section {
   border: 2px solid blue;
 }
 
-section .text-data {
+.section .text-data {
   border: 2px dashed orange;
 }
 
-footer {
+.footer {
   border: 2px solid darkgreen;
 }
 /*# sourceMappingURL=styles.css.map */
